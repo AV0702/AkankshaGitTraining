@@ -1,2 +1,4 @@
 This is my demo empty file.
 added a new line.I am a good girl.working on git.
+one more line added.
+now checking after branch rules deletion
